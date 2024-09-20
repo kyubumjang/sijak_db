@@ -18,15 +18,16 @@
             "capacity": 15,
             "link": "https://www.songpawoman.org/2024/epit_contents.asp?epit_num=10501042&om=202410&ucode=&period=3",
             "location": "송파여성문화회관 미디어1실(101호)",
-            "latitude": 108,
-            "longitude": 108,
+            "latitude": 37.5059054977082,
+            "longitude": 127.109788230628,
             "target": "사진 입문자",
             "status": "모집 중",
-            "thumbnail": "https://plus.unsplash.com/premium_photo-1673448391005-d65e815bd026?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "thumbnail": "https://plus.unsplash.com/premium_photo-1673448391005-d65e815bd026?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "address": "서울특별시 송파구 백제고분로42길 5"
           }
         ],
-        "latitude": 100,
-        "longitude": 100
+        "latitude": 37.5059054977082,
+        "longitude": 127.109788230628
       }
     }
   ],
@@ -41,14 +42,15 @@
       "capacity": 15,
       "link": "https://www.songpawoman.org/2024/epit_contents.asp?epit_num=10501042&om=202410&ucode=&period=3",
       "location": "서울 송파",
-      "latitude": 108,
-      "longitude": 108,
+      "latitude": 37.5059054977082,
+      "longitude": 127.109788230628,
       "target": "사진 입문자",
       "status": "모집 중",
       "thumbnail": "https://plus.unsplash.com/premium_photo-1673448391005-d65e815bd026?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "like": true,
       "location_detail": "송파여성문화회관 미디어1실(101호)",
-      "hosted_by": "송파여성문화회관"
+      "hosted_by": "송파여성문화회관",
+      "address": "서울특별시 송파구 백제고분로42길 5"
     },
     {
       "id": 2,
@@ -60,14 +62,15 @@
       "capacity": 26,
       "link": "https://www.songpawoman.org/2024/epit_contents.asp?epit_num=10101021&om=202410&ucode=&period=3",
       "location": "서울 송파",
-      "latitude": 108,
-      "longitude": 108,
+      "latitude": 37.5059054977082,
+      "longitude": 127.109788230628,
       "target": "헤어디자인에 관심과 열의가 있고 자격증 취득을 원하는 여성 누구나",
       "status": "모집 중",
       "thumbnail": "https://images.unsplash.com/photo-1511920922889-5c35bfd95a7f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "like": false,
       "location_detail": "송파여성문화회관 이미용실(302호)",
-      "hosted_by": "송파여성문화회관"
+      "hosted_by": "송파여성문화회관",
+      "address": "서울특별시 송파구 백제고분로42길 5"
     },
     {
       "id": 3,
@@ -79,14 +82,15 @@
       "capacity": 26,
       "link": "https://www.songpawoman.org/2024/epit_contents.asp?epit_num=10501042&om=202410&ucode=&period=3",
       "location": "서울 송파",
-      "latitude": 108,
-      "longitude": 108,
+      "latitude": 37.5059054977082,
+      "longitude": 127.109788230628,
       "target": "카메라에 관심과 열의가 있는 누구나",
       "status": "모집 중",
       "thumbnail": "https://images.unsplash.com/photo-1531835415135-698b8d7e0ba4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "like": false,
       "location_detail": "송파여성문화회관 미디어1실(101호)",
-      "hosted_by": "송파여성문화회관"
+      "hosted_by": "송파여성문화회관",
+      "address": "서울특별시 송파구 백제고분로42길 5"
     }
   ],
   "userId": {
@@ -107,18 +111,19 @@
         "capacity": 15,
         "link": "https://www.songpawoman.org/2024/epit_contents.asp?epit_num=10501042&om=202410&ucode=&period=3",
         "location": "서울 송파",
-        "latitude": 108,
-        "longitude": 108,
+        "latitude": 37.5059054977082,
+        "longitude": 127.109788230628,
         "target": "사진 입문자",
         "status": "모집 중",
         "thumbnail": "https://images.unsplash.com/photo-1601134991665-a020399422e3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "like": true,
         "location_detail": "송파여성문화회관 미디어1실(101호)",
-        "hosted_by": "송파여성문화회관"
+        "hosted_by": "송파여성문화회관",
+        "address": "서울특별시 송파구 백제고분로42길 5"
       }
     ],
-    "latitude": 100,
-    "longitude": 100,
+    "latitude": 37.5059054977082,
+    "longitude": 127.109788230628,
     "city": "서울특별시"
   },
   "classId": {
@@ -130,13 +135,14 @@
     "capacity": 15,
     "link": "https://www.songpawoman.org/2024/epit_contents.asp?epit_num=10501042&om=202410&ucode=&period=3",
     "location": "서울 송파",
-    "latitude": 108,
-    "longitude": 108,
+    "latitude": 37.5059054977082,
+    "longitude": 127.109788230628,
     "target": "사진 입문자",
     "status": "모집 중",
     "thumbnail": "https://plus.unsplash.com/premium_photo-1673448391005-d65e815bd026?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "like": true,
-    "hosted_by": "송파여성문화회관"
+    "hosted_by": "송파여성문화회관",
+    "address": "서울특별시 송파구 백제고분로42길 5"
   },
   "likeClass": [
     {
@@ -149,14 +155,15 @@
       "capacity": 15,
       "link": "https://www.songpawoman.org/2024/epit_contents.asp?epit_num=10501042&om=202410&ucode=&period=3",
       "location": "서울 송파",
-      "latitude": 108,
-      "longitude": 108,
+      "latitude": 37.5059054977082,
+      "longitude": 127.109788230628,
       "target": "사진 입문자",
       "status": "모집 중",
       "thumbnail": "https://plus.unsplash.com/premium_photo-1673448391005-d65e815bd026?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "like": true,
       "location_detail": "송파여성문화회관 미디어1실(101호)",
-      "hosted_by": "송파여성문화회관"
+      "hosted_by": "송파여성문화회관",
+      "address": "서울특별시 송파구 백제고분로42길 5"
     }
   ]
 }
